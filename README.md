@@ -18,6 +18,7 @@ This project is modular and expandable, making it a solid foundation for future 
 ## 🗂️ Project Structure
 
 Each Unity scene is focused on a single system or feature:
+```bash
 Assets/
 └── Scenes/
 ├── PlayerMovement.unity
@@ -26,6 +27,7 @@ Assets/
 ├── CombatPrototype.unity
 └── UI_Testing.unity
 
+```
 ---
 
 ## 🚀 Systems Included
